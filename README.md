@@ -95,5 +95,5 @@ The project highlights my ability to analyze data, build impactful dashboards, a
 
 ## 👤 Author
 ** Shambho Nangare **
-🔗 Linkedin: https://www.linkedin.com/in/shambho-nangare/
+- 🔗 Linkedin: https://www.linkedin.com/in/shambho-nangare/
 
