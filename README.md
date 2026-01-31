@@ -62,10 +62,11 @@ The dataset contains real sales and customer information, including:
 ---
 
 ## 📈 Key Insights
-- Total revenue exceeded ₹10.62M
-- Customers aged 26–35 placed the highest number of orders
-- West and North zones performed better than other regions
-- A small number of states contributed a large share of total revenue
+- Total revenue crossed ₹10.62M, indicating strong overall sales performance.
+- The 26–35 age group placed the highest number of orders, making it the most valuable customer segment.
+- West and North zones outperformed other regions in terms of revenue contribution.
+- Electronics and Fashion categories contributed the highest share of total revenue.
+- Customer purchase behavior shows a peak during mid-age groups, with declining orders in higher age brackets.
 
 ---
 
