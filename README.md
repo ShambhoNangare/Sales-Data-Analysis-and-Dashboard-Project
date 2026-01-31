@@ -44,12 +44,13 @@ The dataset contains real sales and customer information, including:
 
 ---
 
-## 🛠 Tools & Techniques Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Excel formulas
+## 🛠 Tools & Skills Used
+- Microsoft Excel (Pivot Table, Pivot Charts, Slicers, Data validation)
+- Data Cleaning and Transformation.
+- Sales Performance Analysis.
+- Customer Segmentation Analysis.
+- Dashboard Design and Storytelling.
+- Business Insights and Reporting.
 
 ---
 
@@ -83,13 +84,6 @@ The dashboard helped management to:
 - Strengthen product positioning and promotions for Electronics and Fashion categories, which contribute the largest share of total revenue.
 - Introduce customer retention strategies such as loyalty programs or personalized discounts to encourage repeat purchases.
 - Analyze underperforming regions and categories to identify improvement opportunities through pricing optimization, promotions, or better product mix.
-
----
-
-## 📁 Files Included
-- `Sales_Performance_Dashboard.xlsx` – Interactive Excel dashboard
-- `dashboard_overview.png` – Dashboard screenshot
-- `README.md` – Project documentation
 
 ---
 
