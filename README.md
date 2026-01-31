@@ -55,7 +55,8 @@ The dataset contains real sales and customer information, including:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview]<img width="1848" height="817" alt="Dashboard" src="https://github.com/user-attachments/assets/dfd1ac29-c17c-401d-80cd-c65774ab1725" />
+
+<img width="1848" height="817" alt="Dashboard" src="https://github.com/user-attachments/assets/dfd1ac29-c17c-401d-80cd-c65774ab1725" />
 
 
 ---
