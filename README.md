@@ -78,7 +78,7 @@ The dashboard helped management to:
 - Reduce manual reporting effort significantly
 
 ---
-## Business Recommendation
+## 📌 Business Recommendation
 - Focus marketing and promotional campaigns on the 26–35 age group, as this segment generates the highest number of orders and shows strong purchase behavior.
 - Increase inventory availability and targeted regional campaigns in the West and North zones to maximize revenue from high-performing regions.
 - Strengthen product positioning and promotions for Electronics and Fashion categories, which contribute the largest share of total revenue.
@@ -92,3 +92,8 @@ This Project demonstrates how an interactive Excel-Based Dashboard can transform
 By analyzing customer demographics, regional performance, and category-wise revenue, the dashboard enables data-driven decision-making and imprive visibilty into overall sales performance.
 
 The project highlights my ability to analyze data, build impactful dashboards, and communicate insights clearly, making it valuable for business stakeholders and management teams.
+
+## 👤 Author
+** Shambho Nangare **
+🔗 Linkedin: https://www.linkedin.com/in/shambho-nangare/
+
