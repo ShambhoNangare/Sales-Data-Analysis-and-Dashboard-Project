@@ -94,6 +94,7 @@ By analyzing customer demographics, regional performance, and category-wise reve
 The project highlights my ability to analyze data, build impactful dashboards, and communicate insights clearly, making it valuable for business stakeholders and management teams.
 
 ## 👤 Author
-** Shambho Nangare **
+**Shambho Nangare**
 - 🔗 Linkedin: https://www.linkedin.com/in/shambho-nangare/
+- 🔗 GitHub: https://github.com/ShambhoNangare
 
