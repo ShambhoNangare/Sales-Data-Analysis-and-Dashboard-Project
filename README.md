@@ -1,4 +1,3 @@
-# sales-data-analysis-and-dashboard-project
 # 📊 Customer Sales Insights Dashboard (Excel)
 
 ## 🏢 Business Case (Fictional Company)
