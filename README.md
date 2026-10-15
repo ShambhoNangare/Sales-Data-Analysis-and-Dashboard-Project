@@ -79,7 +79,7 @@ The dashboard helped management to:
 
 ---
 ## 📌 Business Recommendation
-- Focus marketing and promotional campaigns on the 26–35 age group, as this segment generates the highest number of orders and shows strong purchase behavior.
+- Focus marketing and promotional campaigns on the 26–35 age group, as this segment generates the highest number of orders and shows strong purchase behavior
 - Increase inventory availability and targeted regional campaigns in the West and North zones to maximize revenue from high-performing regions.
 - Strengthen product positioning and promotions for Electronics and Fashion categories, which contribute the largest share of total revenue.
 - Introduce customer retention strategies such as loyalty programs or personalized discounts to encourage repeat purchases.
